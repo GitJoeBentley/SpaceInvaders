@@ -1,2 +1,2 @@
 # SpaceInvaders
-This is an implementation of the traditional Space Invaders game
+This is an C++ implementation using SFML libraries of the traditional Space Invaders game.
